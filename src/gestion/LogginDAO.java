@@ -26,7 +26,7 @@ import org.jdom2.output.XMLOutputter;
 
 /**
  *
- * @author Isaias
+ * @author Loren
  */
 public class LogginDAO {
     
